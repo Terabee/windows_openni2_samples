@@ -135,6 +135,7 @@ xcopy /Y "$(ProgramW6432)\TERABEEToF\RvcLib.dll" "$(TargetDir)OpenNI2\Drivers\"<
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <Link>
       <AdditionalDependencies>OpenNI2.lib;opencv_core2411d.lib;opencv_highgui2411d.lib;opencv_imgproc2411d.lib;opencv_contrib2411d.lib;libjpegd.lib;libjasper.lib;libpng.lib;libtiff.lib;IlmImf.lib;zlib.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
     <ClCompile>
       <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
