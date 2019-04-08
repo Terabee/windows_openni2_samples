@@ -2,7 +2,7 @@
 
 The purpose of this README is to give guidelines for developing applications with Terabee 3Dcam 80x60 using the OpenNI 2 framework on Windows. 
 
-For more information about the Terabee 3Dcam 80x60, please click [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60).
+For more information about the Terabee 3Dcam 80x60, please click [here](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/).
 
 ## System Requirements
 
@@ -21,7 +21,7 @@ The visual studio project provided in this repository is designed to work with V
 
 ### Install Terabee 3D depth camera SDK
 
-* Download the Windows SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/portfolio-item/terabee-3dcam-80x60/#downloads).
+* Download the Windows SDK from the Downloads section of Terabee 3Dcam [here](https://www.terabee.com/shop/3d-tof-cameras/terabee-3dcam/).
 
 * Install the SDK by running the file relevant to your system architecture and desired OpenNI version.
 
