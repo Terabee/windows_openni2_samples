@@ -7,7 +7,7 @@ For more information about the Terabee 3Dcam 80x60, please click [here](https://
 ## System Requirements
 
 * Windows 7 or later
-* Visual Studio 2013
+* Visual Studio 2015
 
 ## Prepare software development environment
 
@@ -15,9 +15,9 @@ For more information about the Terabee 3Dcam 80x60, please click [here](https://
 
 In order to build and run samples from Terabee, you will have to install OpenCV.
 
-Install OpenCV 2.4.11 pre-built binaries for Windows (available [here](https://opencv.org/releases.html)). The rest of the guide will assume that OpenCV in installed to C:\opencv.
+Install OpenCV 3.4.1 pre-built binaries for Windows (available [here](https://opencv.org/releases.html)). The rest of the guide will assume that OpenCV in installed to C:\opencv.
 
-The visual studio project provided in this repository is designed to work with Visual Studio 2013 (vc12). If you wan to use a newer version of OpenCV, you will have to check that pre-built binaries are compatible with your Visual Studio version and adapt include files, library path and files name accordingly.
+The visual studio project provided in this repository is designed to work with Visual Studio 2015 (vc14). If you wan to use a newer version of OpenCV, you will have to check that pre-built binaries are compatible with your Visual Studio version and adapt include files, library path and files name accordingly.
 
 ### Install Terabee 3D depth camera SDK
 
@@ -27,7 +27,7 @@ The visual studio project provided in this repository is designed to work with V
 
 ## Start developing your application
 
-To get started with your application development, we provide sample codes to help you initiate your development. The following steps provide instructions on how to download and run sample codes. 
+To get started with your application development, we provide sample codes to help you initiate your development. The following steps provide instructions on how to download and run sample codes.
 
 ### Install Git
 
